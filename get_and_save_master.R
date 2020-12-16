@@ -4,7 +4,7 @@
 #install.packages("RMySQL")
 ######
 
-setwd("C:/Users/ffwgtd/Dropbox/R/Project/auto-data-query/")
+setwd("C:/Users/J11/Dropbox/R/Project/auto-data-query/")
 day <- format(Sys.time(), "%A")
 today <- format(Sys.time(), "%Y-%m-%d")
 
